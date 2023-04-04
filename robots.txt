@@ -1,4 +1,2 @@
-Sitemap: https://boxbot6.github.io/calculator-icon-windows-v1.0/sitemap.xml
-
 User-agent: *
 Disallow:

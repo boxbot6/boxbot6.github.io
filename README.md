@@ -1,2 +1,2 @@
 # boxbot6.github.io
-The .github.oi root where I added the google verification, robots.txt and sitemap.xml.
+I created this .github.oi root repository and added the google verification, robots.txt and sitemap.xml for better indexing.

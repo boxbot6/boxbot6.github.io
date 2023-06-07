@@ -1,11 +1,11 @@
 # boxbot6.github.io
 I created this github.oi root repository to add google verification, robots.txt and sitemap.xml for better indexing of its subfolder github-pages sites.
 
-[Link to the github repository for this site: (https://github.com/boxbot6/boxbot6.github.io)](https://github.com/boxbot6/boxbot6.github.io)
+[Link to github repository for this site: (https://github.com/boxbot6/boxbot6.github.io)](https://github.com/boxbot6/boxbot6.github.io)
 
 <br />
 
-### Links to subfolder github-pages sites:
+### Links to github-pages sites:
 
 [https://boxbot6.github.io](https://boxbot6.github.io)
 
@@ -30,5 +30,7 @@ I created this github.oi root repository to add google verification, robots.txt 
 <br />
 
 ### Links to github repositories:
+
+[https://github.com/boxbot6/boxbot6.github.io](https://github.com/boxbot6/boxbot6.github.io)
 
 [https://github.com/boxbot6/simple-website-template-single-page-v1](https://github.com/boxbot6/simple-website-template-single-page-v1)

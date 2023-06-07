@@ -5,9 +5,9 @@ I created this github.oi root repository to add google verification, robots.txt 
 
 <br />
 
-### Links to the github pages subfolder sites:
+### Links to the github-pages subfolder sites:
 
-[https://github.com/boxbot6/image-indexing-link-sharing-experiment-v1/](https://github.com/boxbot6/image-indexing-link-sharing-experiment-v1/)
+[https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/](https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)
 

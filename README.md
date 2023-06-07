@@ -7,11 +7,11 @@ I created this github.oi root repository to add google verification, robots.txt 
 
 ### Links to subfolder github-pages sites:
 
-[https://boxbot6.github.io/](https://boxbot6.github.io/])
+[https://boxbot6.github.io/](https://boxbot6.github.io/)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)
 
-[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)
 
 [https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/](https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/)
 

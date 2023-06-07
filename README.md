@@ -1,5 +1,5 @@
 # boxbot6.github.io
-I created this github.oi root repository to add google verification, robots.txt and sitemap.xml for better indexing of the subfolder github-pages sites.
+I created this github.oi root repository to add google verification, robots.txt and sitemap.xml for better indexing of all its subfolder github-pages websites.
 
 <br />
 

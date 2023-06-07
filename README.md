@@ -31,4 +31,4 @@ I created this github.oi root repository to add google verification, robots.txt 
 
 ### Links to github repositories:
 
-[https://github.com/boxbot6/simple-website-template-single-page-v1](https://github.com/boxbot6/simple-website-template-single-page-v1)
+[https://github.com/boxbot6/simple-website-template-single-page-v1/](https://github.com/boxbot6/simple-website-template-single-page-v1/)

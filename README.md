@@ -7,7 +7,7 @@ I created this github.oi root repository to add google verification, robots.txt 
 
 ### Links to subfolder github-pages sites:
 
-[https://boxbot6.github.io/](https://boxbot6.github.io/)
+[https://boxbot6.github.io](https://boxbot6.github.io)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)
 

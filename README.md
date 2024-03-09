@@ -26,11 +26,13 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar-paired/](https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar-paired/)
 
+[https://boxbot6.github.io/create-image-gallery-from-the-contents-of-a-website-folder/](https://boxbot6.github.io/create-image-gallery-from-the-contents-of-a-website-folder/)
+
 [https://boxbot6.github.io/easy-mode-replica-widgets-v1/](https://boxbot6.github.io/easy-mode-replica-widgets-v1/)
 
 [https://boxbot6.github.io/easy-weather-icons-font-v1/](https://boxbot6.github.io/easy-weather-icons-font-v1/)
 
-[https://boxbot6.github.io/galaxy-s4-icon_pack_v1/](https://boxbot6.github.io/galaxy-s4-icon-pack-v1/)
+[https://boxbot6.github.io/galaxy-s4-icon-pack-v1/](https://boxbot6.github.io/galaxy-s4-icon-pack-v1/)
 
 [https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/)
 
@@ -38,7 +40,10 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/old-scientific-illustration-font-v1/](https://boxbot6.github.io/old-scientific-illustration-font-v1/)
 
-[https://boxbot6.github.io/create-image-gallery-from-the-contents-of-a-website-folder/](https://boxbot6.github.io/create-image-gallery-from-the-contents-of-a-website-folder/)
+[https://boxbot6.github.io/website-template-simple-single-page-v1/](https://boxbot6.github.io/website-template-simple-single-page-v1/)
+
+[https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1 /)
+
 
 <br />
 

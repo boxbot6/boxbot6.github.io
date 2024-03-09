@@ -30,6 +30,8 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/easy-weather-icons-font-v1/](https://boxbot6.github.io/easy-weather-icons-font-v1/)
 
+[https://boxbot6.github.io/galaxy-s4-icon_pack_v1/](https://boxbot6.github.io/galaxy-s4-icon-pack-v1/)
+
 [https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/)
 
 [https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/](https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/)

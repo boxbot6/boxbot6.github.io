@@ -1,0 +1,4 @@
+Sitemap: https://github.com/boxbot6/boxbot6.github.io/sitemap.xml
+
+User-agent: *
+Disallow:

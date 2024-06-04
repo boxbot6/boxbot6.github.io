@@ -34,6 +34,8 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/galaxy-s4-icon-pack/](https://boxbot6.github.io/galaxy-s4-icon-pack/)
 
+[https://boxbot6.github.io/icon-pack-template-basic/](https://boxbot6.github.io/icon-pack-template-basic/)
+
 [https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/)
 
 [https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/](https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/)

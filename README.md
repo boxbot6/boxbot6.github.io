@@ -14,8 +14,6 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/](https://boxbot6.github.io/)
 
-[https://boxbot6.github.io/app-template-basic-icon-pack-v1/](https://boxbot6.github.io/app-template-basic-icon-pack-v1/)
-
 [https://boxbot6.github.io/app-template-bottom-nav-with-swipe-and-top-options-menu/](https://boxbot6.github.io/app-template-bottom-nav-with-swipe-and-top-options-menu/)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)

@@ -46,6 +46,9 @@ I created this .github.oi root repository in this domain to add google verificat
 
 [https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
 
+[https://boxbot6.github.io/simple-website-template-with-banner-v2/](https://boxbot6.github.io/simple-website-template-with-banner-v2/)
+
+
 
 <br />
 
